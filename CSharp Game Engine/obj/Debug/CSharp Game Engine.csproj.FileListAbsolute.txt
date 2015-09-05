@@ -1,0 +1,10 @@
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\bin\Debug\CSharp Game Engine.exe.config
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\bin\Debug\CSharp Game Engine.exe
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\bin\Debug\CSharp Game Engine.pdb
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp Game Engine.csprojResolveAssemblyReference.cache
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp_Game_Engine.Main.resources
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp_Game_Engine.Properties.Resources.resources
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp Game Engine.csproj.GenerateResource.Cache
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp Game Engine.exe
+f:\users\lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp Game Engine.pdb
+F:\Users\Lucas\documents\visual studio 2012\Projects\CSharp Game Engine\CSharp Game Engine\obj\Debug\CSharp_Game_Engine.Console.resources
